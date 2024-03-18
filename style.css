@@ -1,0 +1,94 @@
+body{
+    background-color:#f7ede2;
+    
+}
+h1{
+    color: #3a5a40ff;
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+    font-family: Helvetica;
+}
+
+h2{
+color: #3a5a40ff;
+text-align: center;
+    font-size: 65px;
+font-family: Helvetica;
+}
+
+p{
+    color: #3a5a40ff;
+    text-align: center;
+        font-size: 65px;
+    font-family: Helvetica;
+    }
+    .info{
+        color: #660708ff;
+        text-align: left;
+            font-size: 20px;
+        font-family: Helvetica;
+    }
+  
+    .input{
+       
+       text-align: center;
+
+    }
+    input{
+        font-size: 300%;
+        background-color: #660708ff;
+        color: #f7ede2;
+        border-radius: 30px
+        
+    }
+
+    button{
+        display: flex;
+        flex-direction: column;
+        font-size: 300%;
+        background-color: #3a5a40ff;      
+        font-family: Helvetica;
+        border-radius: 30px;
+    }
+ 
+    
+    
+
+
+.teamarrow{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width:100%;
+    border-radius: 30px;
+}
+
+.oliverqueen{
+    display: none;
+}
+
+.saralance{
+    display: none;
+}
+.theaqueen{
+    display: none;
+}
+.laurellance{
+display: none;
+}
+
+
+button{
+    background-color:#3a5a40ff ;
+    color: #f7ede2;
+    font-family:Helvetica;
+    padding-left: 20px;
+    padding-right: 20px;
+ font-size: 100px;
+ margin-top: 100px;
+ margin-left: auto;
+ margin-right: auto;
+
+}
